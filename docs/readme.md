@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.jpg
+heroImage: /logo01.jpg
 heroText: 你知道的越多 🔛 你不知道的越多
 tagline: 知识库强，则技术强，技术强则国强
 actionText: 开始深造 →
