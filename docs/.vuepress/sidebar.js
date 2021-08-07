@@ -23,7 +23,9 @@ module.exports = [
         title: '数据库',   // 必要的
         collapsable: true, // 可选的, 默认值是 true,
         sidebarDepth: 1,    // 可选的, 默认值是 1
-        children: []
+        children: [
+            {title: 'Redis', path: '/redis/Redis简介'},
+        ]
     },
     {
         title: '中间件',   // 必要的
