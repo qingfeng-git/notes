@@ -12,7 +12,7 @@ module.exports = [
         text: '关于我', link: ''
     },
     {
-        text: '联系我', link: ''
+        text: '联系我', link: '/logo01.jpg'
     },
     {
         text: '工具箱',
