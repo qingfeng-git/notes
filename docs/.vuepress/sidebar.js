@@ -47,6 +47,7 @@ module.exports = [
         sidebarDepth: 1,    // 可选的, 默认值是 1
         children: [
             {title: '工厂模式', path: '/designPatterns/工厂模式'},
+            {title: '原型模式', path: '/designPatterns/原型模式'},
         ]
     },
     {
