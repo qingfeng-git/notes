@@ -1,6 +1,6 @@
 module.exports = {
     title: '清风的博客',
-    //description: '你知道的越多, 你不知道的越多',
+    //description: '你知道的越多, 你不知道的wwww越多',
     base: '/blog/',
     head: [
         ['link', {rel: 'icon', href: '/logo1.jpg'}]
