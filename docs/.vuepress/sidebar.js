@@ -39,6 +39,7 @@ module.exports = [
         sidebarDepth: 1,    // 可选的, 默认值是 1
         children: [
             {title: 'JVM类加载机制', path: '/jvm/JVM类加载机制'},
+            {title: 'JVM内存模型', path: '/jvm/JVM内存模型'},
         ]
     },
     {
